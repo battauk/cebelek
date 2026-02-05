@@ -1,0 +1,9 @@
+https://fastly.jsdelivr.net/gh/battauk/cebelek@prod/sitemap-001.txt.gz
+https://fastly.jsdelivr.net/gh/battauk/cebelek@prod/sitemap-002.txt.gz
+https://fastly.jsdelivr.net/gh/battauk/cebelek@prod/sitemap-003.txt.gz
+https://fastly.jsdelivr.net/gh/battauk/cebelek@prod/sitemap-004.txt.gz
+https://fastly.jsdelivr.net/gh/battauk/cebelek@prod/sitemap-005.txt.gz
+https://fastly.jsdelivr.net/gh/battauk/cebelek@prod/sitemap-006.txt.gz
+https://fastly.jsdelivr.net/gh/battauk/cebelek@prod/sitemap-007.txt.gz
+https://fastly.jsdelivr.net/gh/battauk/cebelek@prod/sitemap-008.txt.gz
+https://fastly.jsdelivr.net/gh/battauk/cebelek@prod/sitemap-009.txt.gz
